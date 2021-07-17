@@ -94,7 +94,7 @@ fi
 #echo
 
 if [ $sikah = 2 ]; then
-xdg-open https://chat.whatsapp.com/Cg93AO04QJALhwxXLD4See
+xdg-open https://chat.whatsapp.com/FbQ2VpAVa2KAlg7ZoMfEfQ
 fi
 if [ $sikah = 3 ]; then
 echo "Tanks Udh Make Script Saya"
